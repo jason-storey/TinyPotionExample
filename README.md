@@ -1,5 +1,7 @@
 # TinyPotionExample
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G148Y9A)
+
+
 Simple Example of flags, stats, potions, world actions and persistence that supports undo
 
 (Just keep in mind this is a thought exercise written in an hour, not a real robust system. In a practical example I would do this test driven and have a qualified code covered test suite, use it as an example of a possible approach to boundary design and thats it.)
@@ -90,6 +92,8 @@ To Create and Modify stats with potions, you can use a potion factory like:
 ```
 
 If this helped you in some way and you'd like to buy me a coffee. You can find me over on https://ko-fi.com/jasonstorey
+
+
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G148Y9A)
 
